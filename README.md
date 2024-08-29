@@ -23,7 +23,7 @@ If you are using python version above 3.5, then you will have to do a small chan
 line 185, in add_cmd_handler
 
    len_args = len(inspect.getargspec(func)[0])
-                       ^^^^^^^^^^^^^^^^^^
+                       
 
                        
 AttributeError: module 'inspect' has no attribute 'getargspec'. Did you mean: 'getargs'? 
