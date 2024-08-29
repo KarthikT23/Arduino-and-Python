@@ -11,7 +11,7 @@ Python Programming for Arduino
 
 # Software installations
 1) Arduino IDE: https://www.arduino.cc/en/software
-2) https://www.python.org/downloads/
+2) Python: https://www.python.org/downloads/
 
 # Libraries and Modules necessary
 1) Firmata library, available in Arduino Library Manager, download from there
