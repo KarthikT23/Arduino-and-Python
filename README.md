@@ -1,5 +1,5 @@
 # Arduino-and-Python
-Python Programming for Arduino
+Using python to control an LED connected to an Arduino Uno through a pushbutton 
 # Requirements
 1) Arduino board (Uno, Nano etc)
 2) Arduino IDE
@@ -32,5 +32,5 @@ Inside your pyfirmata.py script, go to line 185 and edit len_args = len(inspect.
 
 
 
-# References
-https://www.youtube.com/playlist?list=PL09ZAP7_T_Lln5-Is8bsQ28YhYrBgBMn3
+# Reference
+Using python to control an LED connected to an Arduino Uno through a pushbutton 
