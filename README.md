@@ -19,7 +19,7 @@ Python Programming for Arduino
 
 
 # Important note
-If you are using python version above 3.5, then you will have to do a small changein your pyfirmata.py script to avoid " line 185, in add_cmd_handler
+If you are using python version above 3.5, then you will have to do a small change in your pyfirmata.py script to avoid " line 185, in add_cmd_handler
     len_args = len(inspect.getargspec(func)[0])
                    ^^^^^^^^^^^^^^^^^^
 AttributeError: module 'inspect' has no attribute 'getargspec'. Did you mean: 'getargs'? "
